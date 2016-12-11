@@ -1,0 +1,9 @@
+
+
+# IntelliJ project files
+.idea/
+# Cache
+__pycache__/
+# Database
+dbchgk.pickle
+
